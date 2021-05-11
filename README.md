@@ -28,7 +28,8 @@ Projeto simples desenvolvido para notificar o usuário quando é buscado coment�
 ## :rocket: <a name="Tecnologias-utilizadas">Tecnologias utilizadas</a>  
 
 - [Java](https://developer.android.com/studio?hl=pt-br)
-- [JSON](https://www.json.org/json-en.html)
+- [JSON](https://www.json.org/json-en.html)]
+- [Notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications)
 - [Retrofit2](https://square.github.io/retrofit/)
 
 ## :smile: <a name="Autor">Autor</a>  
